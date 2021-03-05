@@ -8,7 +8,7 @@ tags: [reverse engineering]     # TAG names should always be lowercase
 
 1 - Starting The CrackMe Series - Why? --> **You are here**
 
-2- [The First CrackMe of The Series - CrackMe1](https://fatihhcelik.blogspot.com/2020/08/2-first-crackme-of-series-crackme1.html)
+2- [The First CrackMe of The Series - CrackMe1](https://fatihhcelik.github.io/posts/The-First-CrackMe-of-The-Series-CrackMe1/)
 
 ---
 

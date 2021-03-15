@@ -1,7 +1,7 @@
 ---
 title: NULL Pointer Dereference | Deark
 author: Fatih Çelik
-date: 2021-03-15 11:33:00 +0800
+date: 2021-03-15 11:34:00 +0800
 categories: [Vulnerability Research]
 tags: [vulnerability research]
 math: true

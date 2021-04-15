@@ -14,7 +14,7 @@ mermaid: true
 
 **Vulnerability**: SSRF
 
-**CVE**: N/A
+**CVE**: CVE-2021-28060
 
 **Description of the product:**
 

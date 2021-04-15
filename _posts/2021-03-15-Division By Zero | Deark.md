@@ -12,7 +12,7 @@ mermaid: true
 
 **Bug**: Division by Zero
 
-**CVE**: N/A
+**CVE**: CVE-2021-28856
 
 **Description of the product:**
 

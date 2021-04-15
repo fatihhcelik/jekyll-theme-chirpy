@@ -30,6 +30,26 @@ HackinOS is a beginner level CTF style vulnerable machine. I created this VM for
 
 ## Security Advisories
 
+- **CVE-2021-28855**
+
+In Deark before 1.5.8, a specially crafted input file can cause a NULL pointer dereference in the dbuf_write function (src/deark-dbuf.c).
+
+- **CVE-2021-28856**
+
+In Deark before v1.5.8, a specially crafted input file can cause a division by zero in (src/fmtutil.c) because of the value of pixelsize.
+
+- **CVE-2021-28060**
+
+A Server-Side Request Forgery (SSRF) vulnerability in Group Office 6.4.196 allows a remote attacker to forge GET requests to arbitrary URLs via the url parameter to group/api/upload.php.
+
+- **CVE-2020-35419**
+
+Cross Site Scripting (XSS) in Group Office CRM 6.4.196 via the SET_LANGUAGE parameter.
+
+- **CVE-2020-35418**
+
+Cross Site Scripting (XSS) in the contact page of Group Office CRM 6.4.196 by uploading a crafted svg file.
+
 - **CVE-2020-25538**
 
 An authenticated attacker can inject malicious code into "lang" parameter in /uno/central.php file in CMSuno 1.6.2 and run this PHP code in the web page. In this way, attacker can takeover the control of the server.

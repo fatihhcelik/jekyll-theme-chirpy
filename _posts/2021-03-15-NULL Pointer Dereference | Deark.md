@@ -14,7 +14,7 @@ mermaid: true
 
 **Vulnerability**: NULL Pointer Dereference
 
-**CVE**: N/A
+**CVE**: CVE-2021-28855
 
 **Description of the product:**
 

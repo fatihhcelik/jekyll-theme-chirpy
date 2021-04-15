@@ -14,7 +14,7 @@ mermaid: true
 
 **Vulnerability**: Cross Site Scripting
 
-**CVE**: N/A
+**CVE**: CVE-2020-35418 && CVE-2020-35419
 
 **Description of the product:**
 
